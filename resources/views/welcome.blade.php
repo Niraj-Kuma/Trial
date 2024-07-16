@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Captain work flow
+                    Amresh
                 </div>
 
                 <div class="links">
