@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Captain work Flow
+                    6th semester project work
                 </div>
 
                 <div class="links">
